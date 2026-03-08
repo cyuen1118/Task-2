@@ -1,6 +1,7 @@
 Description:
 
-I select the heap as data structure and heap sort as algorithm. The min-heap helps the program easily manage and retrieve the data. Heap sort helps more effectively retrieve the data with efficient time complexity and minial memory usage.
+I selected the heap as my data structure and heap sort as my algorithm.
+The min-heap helps the program efficiently manage and retrieve data, while heap sort provides effective data retrieval with optimal time complexity and minimal memory usage.
 
 
 Abstract Data Type (ADT) Definition
